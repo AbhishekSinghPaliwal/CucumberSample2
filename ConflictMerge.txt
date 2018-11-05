@@ -1,1 +1,6 @@
+[M .8
+
 conflict merge commit1 2nd change by c driver
+
+conflict merge commit1-2nd commit by d drive
+
